@@ -1,0 +1,13 @@
+.flex {
+    display: flex;
+    list-style: none;
+    width: 300px;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+img {
+    height: 2rem;
+    width: 2 rem;
+}
